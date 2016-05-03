@@ -1,0 +1,16 @@
+
+
+// <!-- CSS
+// –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+// <link rel="stylesheet" href="css/normalize.css">
+// <link rel="stylesheet" href="css/skeleton.css">
+@import 'normalize';
+@import 'skeleton';
+
+
+$grey: #aaaaaa;
+
+body{
+  background-color: $grey;
+
+}
